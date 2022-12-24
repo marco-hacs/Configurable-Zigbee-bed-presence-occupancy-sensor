@@ -19,3 +19,4 @@ The bed sensor is mainly a 3d printed structure with a switch that close the zig
 This sensor is begin tested by me and my friend from three weeks and it’s working relly really well with an aquara water leak sensor.
 Hope all of you can enjoy our sensor and if some don’t have a 3d printer we can print it for you for a small fee.
 
+https://community.home-assistant.io/t/configurable-zigbee-bed-presence-occupancy-sensor/433951
