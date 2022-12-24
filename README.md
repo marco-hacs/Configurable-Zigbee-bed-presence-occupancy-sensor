@@ -10,7 +10,8 @@ So after some thinkering and a lot of test we came up to this idea:
 ![4fdd8e2f6c64fda2e97b99bc0563ce64dd60e802_2_690x388](https://user-images.githubusercontent.com/62516592/209432618-e3c0b46d-c7df-434f-8ba3-a218dd16522c.jpg)
 
 The bom and build istruction can be found here:
-Costruire un Sensore Bed Presence Zigbee - DomHouse.it https://domhouse.it/costruire-un-sensore-bed-presence-zigbee/
+<i>[Costruire un Sensore Bed Presence Zigbee - DomHouse.it](https://domhouse.it/costruire-un-sensore-bed-presence-zigbee/)</i>
+
 It’s an nice italian website about home automation with a lot of resource where we first get the sensor published .
 
 The bed sensor is mainly a 3d printed structure with a switch that close the zigbee circuit. You have to put it under the mattress and set the right elevation of the switch with the knob. After a week the 3d printed structure probably will deform slightly and you have to re-set again the elevation and after that it will remain stable.
