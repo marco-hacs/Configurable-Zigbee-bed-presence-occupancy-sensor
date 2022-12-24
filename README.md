@@ -1,6 +1,6 @@
 # Configurable-Zigbee-bed-presence-occupancy-sensor
 
-Hi all, I am thrilled to present a project that me and my friend Lucawere recently involved.
+Hi all, I am thrilled to present a project that me and my friend Luca were recently involved.
 
 First why we started the project…
 We was in search for a reliable zigbee **battery** powered bed sensor to put **under the mattress**, found some interesting idea but none seem reliable or do not have the charateristic we want form the sensor for example some sensor need to be under the blankets but our idea was a set and forget sensor under the mattress.
