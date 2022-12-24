@@ -1,5 +1,4 @@
 # Configurable-Zigbee-bed-presence-occupancy-sensor
-The bed sensor is mainly a 3d printed structure with a switch that closes the zigbee circuit.
 
 Hi all, I am thrilled to present a project that me and my friend Lucawere recently involved.
 
